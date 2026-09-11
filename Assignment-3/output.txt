@@ -1,0 +1,16 @@
+Cargo Loading for Spaceship
+Enter number of cargo items: Enter spaceship capacity (kg): 
+Cargo Item 1
+Enter mass (kg): Enter value: Enter type (1 = Divisible, 0 = Indivisible): 
+Cargo Item 2
+Enter mass (kg): Enter value: Enter type (1 = Divisible, 0 = Indivisible): 
+Cargo Item 3
+Enter mass (kg): Enter value: Enter type (1 = Divisible, 0 = Indivisible): 
+Selected Cargo Items
+ID	Mass	Value
+1	10.00	60.00
+2	20.00	100.00
+
+Total Mass Loaded: 30.00 kg
+Remaining Spaceship Capacity: 20.00 kg
+Maximum Total Value: 160.00
